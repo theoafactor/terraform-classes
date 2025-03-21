@@ -1,0 +1,4 @@
+.terraform*
+.terraform.*
+classkey_rsa
+classkey_rsa.pub
