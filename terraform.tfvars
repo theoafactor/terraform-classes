@@ -1,0 +1,1 @@
+virtual_machine1 = "t2.small"
